@@ -4,7 +4,11 @@ numpy
 pandas
 matplotlib
 torch
+torchvision
+torchaudio
 datasets
 transformers
 scikit-learn
 wandb
+rdkit
+scipy

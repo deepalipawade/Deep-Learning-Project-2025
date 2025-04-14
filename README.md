@@ -1,5 +1,12 @@
 # NNTI Project WS 2024/2025
 
+## Steps to Execute the Code
+
+1. **Task 1:** Execute the `Task1.ipynb` file, which saves the trained models—`mlm_fintuned_model` and `regression_fintuned_model`—in the `scripts` folder.
+2. **Task 2:** Generate influence scores and perform fine-tuning. The data selected is saved into a CSV file with an additional column, "Influence", sorted in descending order of their impact. This file is located in the `scripts` folder.
+3. **Task 3:** A new folder named `task3_data_selection` is created, which contains scripts for Cosine Similarity and Tanimoto Similarity. Additionally, the selected samples are saved as CSV files. In the `scripts` folder, you will also find the files for PEFTs: `lora.py`, `bitfit.py`, and `ia3.py`.
+4. **Visualization:** Added in `plots` folder where we saved out plots
+
 ## About
 
 See [tasks](./tasks) to get started.
